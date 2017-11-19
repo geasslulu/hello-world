@@ -1,2 +1,3 @@
 # hello-world
-ABC
+Hello!
+I want to learn python well.
